@@ -1,7 +1,7 @@
 # Личный проект «Глейси»
 
-* Студент: [Неопознанный енот](https://up.htmlacademy.ru/htmlcss/23/user/906577).
-* Наставник: `Неизвестно`.
+* Студент: [Кирилл Самохин](https://up.htmlacademy.ru/htmlcss/23/user/906577).
+* Наставник: [Николай Маркелов](https://htmlacademy.ru/profile/nikolamarkelov).
 
 ---
 
